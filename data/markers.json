@@ -1,0 +1,114 @@
+[
+    {
+        "state": "Georgia",
+        "name": "Blood Mountain",
+        "lat": 34.7398,
+        "lng": -83.9369,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "North Carolina",
+        "name": "Roan Highlands",
+        "lat": 36.1038,
+        "lng": -82.1104,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "Tennessee",
+        "name": "Roan High Knob",
+        "lat": 36.1045626,
+        "lng": -82.1223458,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "Virginia",
+        "name": "Tinker Cliffs",
+        "lat": 37.4575,
+        "lng": -80.0173,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "West Virginia",
+        "name": "Harpers Ferry",
+        "lat": 39.3254,
+        "lng": -77.7389,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "Maryland",
+        "name": "Washington Monument State Park",
+        "lat": 39.4992,
+        "lng": -77.6240,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "Pennsylvania",
+        "name": "Boiling Springs",
+        "lat": 40.1498,
+        "lng": -77.1283,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "New Jersey",
+        "name": "High Point State Park",
+        "lat": 41.305621,
+        "lng": -74.67112,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "New York",
+        "name": "Bear Mountain State Park",
+        "lat": 41.2846,
+        "lng": -74.0006,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "Connecticut",
+        "name": "Kent",
+        "lat": 41.7248,
+        "lng": -73.4770,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "Massachusetts",
+        "name": "Mount Greylock",
+        "lat": 42.6376,
+        "lng": -73.1662,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "Vermont",
+        "name": "Bromley Mountain",
+        "lat": 43.2279,
+        "lng": -72.9387,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "New Hampshire",
+        "name": "Mount Washington",
+        "lat": 44.2706,
+        "lng": -71.3033,
+        "description": "",
+        "image": "./images/"
+    },
+    {
+        "state": "Maine",
+        "name": "Mount Katahdin",
+        "lat": 34.7398,
+        "lng": -83.9369,
+        "description": "",
+        "image": "./images/"
+    }
+]

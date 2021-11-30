@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Geocode API</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link rel="stylesheet" href="./DataTables/datatables.min.css">
+    <link rel="stylesheet" href="./styles/main.css">
+</head>
+<body>
+    <div class="navbar row">
+        <div class="header col-md-8">
+            <h1 class="title">Insider Gems of the Appalachian Trail</h1>
+        </div>
+        <div class="change-view col-md-4">
+            <button><a class="pages" href="./index.html">Map View</a></button>
+        </div>
+    </div>
+    <div class="blurb">
+        <h2 class="subtitle">Below, find some of an Appalachian Trail Thru Hiker's favorite spots along the trail by State.</h2>
+    </div>
+    <div class="container info">
+        <table id="myTable" class="hover table table-bordered table-responsive" cellspacing="0" width="100%">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>State</th>
+                    <th>Place</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+
+    <footer class="footer">
+        <h2>Sources</h2>
+        <ul>
+            <li><a href="https://www.atlantatrails.com/hiking-trails/wooded-serenity-the-appalachian-trail-at-blood-mountain/">Blood Mountain</a></li>
+            <li><a href="https://ashevilletrails.com/roan-mountain/">Roan Highlands</a></li>
+            <li><a href="https://ashevilletrails.com/appalachian-trail-north-carolina/roan-high-knob-carvers-gap/">Roan High Knob</a></li>
+            <li><a href="https://gohikevirginia.com/mcafee-knob-tinker-cliffs-hike/">Tinker Cliffs</a></li>
+            <li><a href="https://www.nps.gov/hafe/index.htm">Harpers Ferry</a></li>
+            <li><a href="https://dnr.maryland.gov/publiclands/pages/western/washington.aspx">Washington Monument State Park</a></li>
+            <li><a href="https://www.visitcumberlandvalley.com/towns/boiling-springs/">Boiling Springs</a></li>
+            <li><a href="">High Point State Park</a></li>
+            <li><a href="">Bear Mountain State Park</a></li>
+            <li><a href="">Kent</a></li>
+            <li><a href="">Mount Greylock</a></li>
+            <li><a href="">Bromley Mountain</a></li>
+            <li><a href="">Mount Washington</a></li>
+            <li><a href="">Mount Katahdin</a></li>
+        </ul>
+    </footer>
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="./data/markers.json"></script>
+    <script src="./DataTables/datatables.min.js"></script>
+    <script src="./scripts/main.js"></script>
+</body>
+</html>
