@@ -19,40 +19,50 @@
             <button><a class="pages" href="./index.html">Map View</a></button>
         </div>
     </div>
+    <br>
     <div class="blurb">
         <h2 class="subtitle">Below, find some of an Appalachian Trail Thru Hiker's favorite spots along the trail by State.</h2>
     </div>
-    <div class="container info">
+    <br>
+    <div class="container">
         <table id="myTable" class="hover table table-bordered table-responsive" cellspacing="0" width="100%">
             <thead>
                 <tr>
                     <th>Image</th>
-                    <th>State</th>
                     <th>Place</th>
+                    <th>State</th>
                     <th>Description</th>
                 </tr>
             </thead>
         </table>
     </div>
 
-    <footer class="footer">
-        <h2>Sources</h2>
-        <ul>
-            <li><a href="https://www.atlantatrails.com/hiking-trails/wooded-serenity-the-appalachian-trail-at-blood-mountain/">Blood Mountain</a></li>
-            <li><a href="https://ashevilletrails.com/roan-mountain/">Roan Highlands</a></li>
-            <li><a href="https://ashevilletrails.com/appalachian-trail-north-carolina/roan-high-knob-carvers-gap/">Roan High Knob</a></li>
-            <li><a href="https://gohikevirginia.com/mcafee-knob-tinker-cliffs-hike/">Tinker Cliffs</a></li>
-            <li><a href="https://www.nps.gov/hafe/index.htm">Harpers Ferry</a></li>
-            <li><a href="https://dnr.maryland.gov/publiclands/pages/western/washington.aspx">Washington Monument State Park</a></li>
-            <li><a href="https://www.visitcumberlandvalley.com/towns/boiling-springs/">Boiling Springs</a></li>
-            <li><a href="">High Point State Park</a></li>
-            <li><a href="">Bear Mountain State Park</a></li>
-            <li><a href="">Kent</a></li>
-            <li><a href="">Mount Greylock</a></li>
-            <li><a href="">Bromley Mountain</a></li>
-            <li><a href="">Mount Washington</a></li>
-            <li><a href="">Mount Katahdin</a></li>
-        </ul>
+    <br>
+    <footer class="footer2">
+        <div class="sources">
+            <h2>Sources</h2>
+            <h2 class="thanks">Thru Hiker information from Julian Cochran</h2>
+        </div>
+        <div class="row foot-row">
+            <ul class="col-md-6 footer-col list-foot list1">
+                <li><a class="a" href="https://www.atlantatrails.com/hiking-trails/wooded-serenity-the-appalachian-trail-at-blood-mountain/">Blood Mountain</a></li>
+                <li><a class="a" href="https://ashevilletrails.com/roan-mountain/">Roan Highlands</a></li>
+                <li><a class="a" href="https://ashevilletrails.com/appalachian-trail-north-carolina/roan-high-knob-carvers-gap/">Roan High Knob</a></li>
+                <li><a class="a" href="https://gohikevirginia.com/mcafee-knob-tinker-cliffs-hike/">Tinker Cliffs</a></li>
+                <li><a class="a" href="https://www.nps.gov/hafe/index.htm">Harpers Ferry</a></li>
+                <li><a class="a" href="https://dnr.maryland.gov/publiclands/pages/western/washington.aspx">Washington Monument State Park</a></li>
+                <li><a class="a" href="https://www.visitcumberlandvalley.com/towns/boiling-springs/">Boiling Springs</a></li>
+            </ul>
+            <ul class="col-md-6 footer-col list-foot">
+                <li><a class="a" href="https://www.nj.gov/dep/parksandforests/parks/highpointstatepark.html">High Point State Park</a></li>
+                <li><a class="a" href="https://parks.ny.gov/parks/bearmountain/">Bear Mountain State Park</a></li>
+                <li><a class="a" href="https://www.ctvisit.com/listings/town-kent">Kent</a></li>
+                <li><a class="a" href="https://www.mass.gov/locations/mount-greylock-state-reservation">Mount Greylock</a></li>
+                <li><a class="a" href="https://www.summitpost.org/bromley-mountain/572164">Bromley Mountain</a></li>
+                <li><a class="a" href="https://www.mountwashington.org/">Mount Washington</a></li>
+                <li><a class="a" href="https://themainehighlands.com/story/mount-katahdin">Mount Katahdin</a></li>
+            </ul>
+        </div>
     </footer>
 
 
@@ -60,6 +70,8 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="./data/markers.json"></script>
     <script src="./DataTables/datatables.min.js"></script>
-    <script src="./scripts/main.js"></script>
+    <script src="https://cdn.datatables.net/rowreorder/1.2.8/js/dataTables.rowReorder.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+    <script src="./scripts/listview.js"></script>
 </body>
 </html>

@@ -13,6 +13,10 @@ function initMap() {
   });
 
   loadData();
+
+  if (screen.width < 767 && typeof map !== "undefined") {
+    map.setZoom(5);
+  }
 }
 
 // load json data
@@ -20,7 +24,6 @@ function loadData() {
   $.getJSON("./data/markers.json", function (places) {
     console.log(places);
     createMarkers(places);
-    createTable(places);
   });
 }
 
@@ -44,17 +47,5 @@ function createMarkers(places) {
 
   marker.addListener("click", () => {
     map.setZoom(3);
-  });
-}
-
-function createTable(places) {
-  $("#myTable").DataTable({
-    data: places.data,
-    columns: [
-      { data: "image" },
-      { data: "state" },
-      { data: "name" },
-      { data: "description" },
-    ],
   });
 }
