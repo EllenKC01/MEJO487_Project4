@@ -7,8 +7,8 @@ let map;
 // create map
 function initMap() {
   map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: 39.32, lng: -77.55 },
-    zoom: 5.5,
+    center: { lat: 40, lng: -77.55 },
+    zoom: 5.4,
     mapTypeId: "terrain",
   });
 
@@ -28,24 +28,39 @@ function loadData() {
 }
 
 // create map markers w json data
+// InfoWindow help from https://www.svennerberg.com/2012/03/adding-multiple-markers-to-google-maps-from-json/
 function createMarkers(places) {
-  var pos = "";
-  var title = "";
+  var infoWindow = new google.maps.InfoWindow();
   for (let i = 0; i <= places.length; i++) {
-    pos = { lat: places[i].lat, lng: places[i].lng };
+    var data = places[i];
+    var pos = new google.maps.LatLng(data.lat, data.lng);
     console.log(pos);
-    title = places[i].name;
+    var title = places[i].name;
     console.log(title);
-    new google.maps.Marker({
+    var marker = new google.maps.Marker({
       position: pos,
-      map: map,
+      map,
       title: title,
     });
+    marker.setMap(map);
+    // opening infoWindow when marker clicked and creating a closure to pass current data
+    (function (marker, data) {
+      var descrip = places[i].description;
+      var img = places[i].image;
+      var content =
+        "<div><h1>" +
+        data.name +
+        ", " +
+        data.state +
+        "</h1></div><br><div class='row'><div class='col-md-6'><p>" +
+        descrip +
+        "</p></div><div class='col-md-6'>" +
+        img +
+        "</p></div></div>";
+      google.maps.event.addListener(marker, "click", function (e) {
+        infoWindow.setContent(content);
+        infoWindow.open(map, marker);
+      });
+    })(marker, data);
   }
-
-  const marker = google.maps.Marker;
-
-  marker.addListener("click", () => {
-    map.setZoom(3);
-  });
 }

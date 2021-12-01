@@ -4,7 +4,7 @@
         "name": "Blood Mountain",
         "lat": 34.7398,
         "lng": -83.9369,
-        "description": "As the AT’s highest peak in Georgia, Blood Mountain stands at 4,459 feet and is one of the first intense climbs of the trail for north-bound hikers. Characterized by rhododendron, moss-covered boulders, and tight switchbacks, the hike to the summit is a quintessential section of the southern AT. Along with the enjoyable journey, this first climb is worth the workout for the stunning views from the summit and the 1930s-era rock shelter that stands at its peak.",
+        "description": "As the AT’s highest peak in Georgia, <strong>Blood Mountain</strong> stands at 4,459 feet and is one of the first intense climbs of the trail for north-bound hikers. Characterized by rhododendron, moss-covered boulders, and tight switchbacks, the hike to the summit is a quintessential section of the southern AT. Along with the enjoyable journey, this first climb is worth the workout for the stunning views from the summit and the 1930s-era rock shelter that stands at its peak.",
         "image": "<img class='img' src='./images/blood-mountain.jpeg'>"
     },
     {
@@ -12,7 +12,7 @@
         "name": "Roan Highlands",
         "lat": 36.1038,
         "lng": -82.1104,
-        "description": "The Roan Highlands consist of three mountains along the North Carolina and Tennessee border. Considered one of the most beautiful spots along the AT, the Roan Highlands is known for its lush foliage, spruce-fir forests, and bald mountain peaks that allow for expansive views. Along this section of the trail, hikers can find beautiful open fields, diverse wild flowers and berries, and even wild horses. Whether day hiking or backpacking, visitors will find beauty in the Roan Highlands area in any season.",
+        "description": "The <strong>Roan Highlands</strong> consist of three mountains along the North Carolina and Tennessee border. Considered one of the most beautiful spots along the AT, the Roan Highlands is known for its lush foliage, spruce-fir forests, and bald mountain peaks that allow for expansive views. Along this section of the trail, hikers can find beautiful open fields, diverse wild flowers and berries, and even wild horses. Whether day hiking or backpacking, visitors will find beauty in the Roan Highlands area in any season.",
         "image": "<img class='img' src='./images/roan-highlands.jpeg'>"
     },
     {
@@ -20,7 +20,7 @@
         "name": "Roan High Knob",
         "lat": 36.1045626,
         "lng": -82.1223458,
-        "description": "After the Roan Highlands, the AT passes over two more of the Roan Mountains, one of which is Roan High Knob. Unlike the bald peaks preceding it, Roan High Knob is almost entirely tree-covered, with the exception of its majestic summit overlook. The mountain is also home to the Roan High Knob shelter, the highest elevation shelter on the trail. The climb up this mountain consists of several wooden bridges spanning small creeks and passes beneath dense fir trees, cutting along the moss and lichen-covered forest floor in an almost fantastical atmosphere.",
+        "description": "After the Roan Highlands, the AT passes over two more of the Roan Mountains, one of which is <strong>Roan High Knob</strong>. Unlike the bald peaks preceding it, Roan High Knob is almost entirely tree-covered, with the exception of its majestic summit overlook. The mountain is also home to the Roan High Knob shelter, the highest elevation shelter on the trail. The climb up this mountain consists of several wooden bridges spanning small creeks and passes beneath dense fir trees, cutting along the moss and lichen-covered forest floor in an almost fantastical atmosphere.",
         "image": "<img class='img' src='./images/roan-high-knob.jpeg'>"
     },
     {
@@ -28,7 +28,7 @@
         "name": "Tinker Cliffs",
         "lat": 37.4575,
         "lng": -80.0173,
-        "description": "The “Triple Crown” of great spots along the AT in Virginia consist of McAfee’s Knob, Dragon’s Tooth, and Tinker Cliffs. While the first two are often more visited, Tinker Cliffs is an underrated favorite of many Thru Hikers. To reach the cliffs, hikers must tackle an intense elevation gain over a short distance, but the resulting views from the top are breathtaking and worth every bit of the climb. On a northbound trek, the hike down from the cliffs is where hikers pass through private property and encounter open fields, wooden bridges, and grazing cattle.",
+        "description": "The “Triple Crown” of great spots along the AT in Virginia consist of McAfee’s Knob, Dragon’s Tooth, and <strong>Tinker Cliffs</strong>. While the first two are often more visited, Tinker Cliffs is an underrated favorite of many Thru Hikers. To reach the cliffs, hikers must tackle an intense elevation gain over a short distance, but the resulting views from the top are breathtaking and worth every bit of the climb. On a northbound trek, the hike down from the cliffs is where hikers pass through private property and encounter open fields, wooden bridges, and grazing cattle.",
         "image": "<img class='img' src='./images/tinker-cliffs.jpeg'>"
     },
     {
@@ -36,7 +36,7 @@
         "name": "Harpers Ferry",
         "lat": 39.3254,
         "lng": -77.7389,
-        "description": "According to many hikers, Harpers Ferry is the “psychological midpoint” of the AT. This area along the trail is the home of the Appalachian Trail Conservancy Headquarters, and is a national historic park. The park contains a town as well as many natural attractions, and is bordered by both the Shenandoah and Potomac rivers. Due to its location along the AT, Harpers Ferry boasts many accommodations for Thru Hikers, and it is popular for backpackers to take “zero days,” or rest days from hiking, in the town to enjoy its many features.",
+        "description": "According to many hikers, <strong>Harpers Ferry</strong> is the “psychological midpoint” of the AT. This area along the trail is the home of the Appalachian Trail Conservancy Headquarters, and is a national historic park. The park contains a town as well as many natural attractions, and is bordered by both the Shenandoah and Potomac rivers. Due to its location along the AT, Harpers Ferry boasts many accommodations for Thru Hikers, and it is popular for backpackers to take “zero days,” or rest days from hiking, in the town to enjoy its many features.",
         "image": "<img class='img' src='./images/harpers-ferry.jpeg'>"
     },
     {
@@ -44,7 +44,7 @@
         "name": "Washington Monument State Park",
         "lat": 39.4992,
         "lng": -77.6240,
-        "description": "In Maryland, the AT passes through Washington Monument State Park, home of the original Washington Monument. The monument, a large stone tower, was built in 1827 by the citizens of Boonsboro and still stands on the summit of South Mountain. The monument marks the site of the first major battle in Maryland of the Civil War, and the location’s historical significance can be further explored in the nearby park museum. Today, the tower is a prime spot for watching large migratory birds as they pass by, especially around mid-September.",
+        "description": "In Maryland, the AT passes through <strong>Washington Monument State Park</strong>, home of the original Washington Monument. The monument, a large stone tower, was built in 1827 by the citizens of Boonsboro and still stands on the summit of South Mountain. The monument marks the site of the first major battle in Maryland of the Civil War, and the location’s historical significance can be further explored in the nearby park museum. Today, the tower is a prime spot for watching large migratory birds as they pass by, especially around mid-September.",
         "image": "<img class='img' src='./images/washington-monument.jpeg'>"
     },
     {
@@ -52,7 +52,7 @@
         "name": "Boiling Springs",
         "lat": 40.1498,
         "lng": -77.1283,
-        "description": "The district of Boiling Springs is located in the Cumberland Valley, where the AT travels along its lowest and flattest points between Georgia and Maine. The town of Boiling Springs is in the center of this section, and is an area rich with history and local craftsmanship. The town takes its name from the man-made lake it surrounds, which has beautiful clear water and literally bubbles. Unlike many AT towns that can only be accessed by stepping off the trail, hikers walk directly through Boiling Springs on their journey, passing right beside the lake and among the town’s historic buildings, though few backpackers travel through the area without stopping to enjoy all the area has to offer.",
+        "description": "The district of <strong>Boiling Springs</strong> is located in the Cumberland Valley, where the AT travels along its lowest and flattest points between Georgia and Maine. The town of Boiling Springs is in the center of this section, and is an area rich with history and local craftsmanship. The town takes its name from the man-made lake it surrounds, which has beautiful clear water and literally bubbles. Unlike many AT towns that can only be accessed by stepping off the trail, hikers walk directly through Boiling Springs on their journey, passing right beside the lake and among the town’s historic buildings, though few backpackers travel through the area without stopping to enjoy all the area has to offer.",
         "image": "<img class='img' src='./images/boiling-springs.jpeg'>"
     },
     {
@@ -60,7 +60,7 @@
         "name": "High Point State Park",
         "lat": 41.305621,
         "lng": -74.67112,
-        "description": "From High Point, the summit of Kittatinny Ridge, the unobstructed view allows visitors to see three different states- New Jersey, New York, and Pennsylvania- at the same time. The High Point Monument stands on the peak of the mountain as a memorial for New Jersey’s veterans, along with the rest of the park. While the park itself is well-known and visited by many each year, what only Thru Hikers know is that a “secret” shelter can be found at the north end of the park on private property. Here, hikers can enjoy surprise accommodations and spend time with Jake the donkey, the shelter’s unofficial mascot.",
+        "description": "From <strong>High Point</strong>, the summit of Kittatinny Ridge, the unobstructed view allows visitors to see three different states- New Jersey, New York, and Pennsylvania- at the same time. The High Point Monument stands on the peak of the mountain as a memorial for New Jersey’s veterans, along with the rest of the park. While the park itself is well-known and visited by many each year, what only Thru Hikers know is that a “secret” shelter can be found at the north end of the park on private property. Here, hikers can enjoy surprise accommodations and spend time with Jake the donkey, the shelter’s unofficial mascot.",
         "image": "<img class='img' src='./images/high-point.jpeg'>"
     },
     {
@@ -68,7 +68,7 @@
         "name": "Bear Mountain State Park",
         "lat": 41.2846,
         "lng": -74.0006,
-        "description": "Bear Mountain State Park is outlined by the Hudson River and features many natural and man-made attractions to draw in visitors year-round. These attractions include lodging for tourists and hikers, fishing and swimming in the summer, ice skating and skiing in the winter, and even a trailside zoo. And in this case, “trailside” means the AT passed directly through the zoo. The lowest point on the trail is even located here, directly in front of the zoo’s bear enclosure. Thru Hikers can get a reminder of home life as they enjoy the zoo exhibits on their way through the area.",
+        "description": "<strong>Bear Mountain State Park</strong> is outlined by the Hudson River and features many natural and man-made attractions to draw in visitors year-round. These attractions include lodging for tourists and hikers, fishing and swimming in the summer, ice skating and skiing in the winter, and even a trailside zoo. And in this case, “trailside” means the AT passed directly through the zoo. The lowest point on the trail is even located here, directly in front of the zoo’s bear enclosure. Thru Hikers can get a reminder of home life as they enjoy the zoo exhibits on their way through the area.",
         "image": "<img class='img' src='./images/bear-mountain.jpeg'>"
     },
     {
@@ -76,7 +76,7 @@
         "name": "Kent",
         "lat": 41.7248,
         "lng": -73.4770,
-        "description": "The town of Kent was established in 1739 and has managed to maintain its historical atmosphere while still incorporating elements of modernity. For AT Thru Hikers, the town offers many high-quality and reliable restaurants, quaint hostels and inns, and many opportunities for resupplying. For all visitors, the town is known for its famous covered bridge, several popular museums, and its proximity to two state parks. Kent boasts its talents for both engaging outdoor activities and friendly, helpful service to all who spend time there.",
+        "description": "The town of <strong>Kent</strong> was established in 1739 and has managed to maintain its historical atmosphere while still incorporating elements of modernity. For AT Thru Hikers, the town offers many high-quality and reliable restaurants, quaint hostels and inns, and many opportunities for resupplying. For all visitors, the town is known for its famous covered bridge, several popular museums, and its proximity to two state parks. Kent boasts its talents for both engaging outdoor activities and friendly, helpful service to all who spend time there.",
         "image": "<img class='img' src='./images/kent.jpeg'>"
     },
     {
@@ -84,7 +84,7 @@
         "name": "Mount Greylock",
         "lat": 42.6376,
         "lng": -73.1662,
-        "description": "Mount Greylock, the highest point in Massachusetts, stands at a proud 3,491ft, allowing anyone standing on the peak to see for up to 90 miles on a clear day. While the mountain is host to a variety of outdoor activities such as camping, hiking, hunting, and snowmobiling, one of the area’s most popular attractions is Bascom Lodge. This lodge stands on the mountain’s summit and can only be accessed during warmer months. Built during the Great Depression, Bascom Lodge was originally meant as a place for nourishing and refreshing the spirit and body, and it continues to serve this purpose today, though to a much wider and more diverse array of patrons.",
+        "description": "<strong>Mount Greylock</strong>, the highest point in Massachusetts, stands at a proud 3,491ft, allowing anyone standing on the peak to see for up to 90 miles on a clear day. While the mountain is host to a variety of outdoor activities such as camping, hiking, hunting, and snowmobiling, one of the area’s most popular attractions is Bascom Lodge. This lodge stands on the mountain’s summit and can only be accessed during warmer months. Built during the Great Depression, Bascom Lodge was originally meant as a place for nourishing and refreshing the spirit and body, and it continues to serve this purpose today, though to a much wider and more diverse array of patrons.",
         "image": "<img class='img' src='./images/mount-greylock.jpg'>"
     },
     {
@@ -92,7 +92,7 @@
         "name": "Bromley Mountain",
         "lat": 43.2279,
         "lng": -72.9387,
-        "description": "Bromley Mountain is well known as a popular destination for skiing and other winter sports, though few people know the AT also passes through the area. Because of the ski resort, the trail is accessible all year round and is helped up the mountain by some of the ski slopes. It is also one of the more heavily populated sections of the trail due to the ski area activity. The AT passes directly over the summit of Bromley, marked by an observation tower at the top that provides excellent views of the Green Mountain National Forest.",
+        "description": "<strong>Bromley Mountain</strong> is well known as a popular destination for skiing and other winter sports, though few people know the AT also passes through the area. Because of the ski resort, the trail is accessible all year round and is helped up the mountain by some of the ski slopes. It is also one of the more heavily populated sections of the trail due to the ski area activity. The AT passes directly over the summit of Bromley, marked by an observation tower at the top that provides excellent views of the Green Mountain National Forest.",
         "image": "<img class='img' src='./images/bromley-mountain.jpeg'>"
     },
     {
@@ -100,15 +100,15 @@
         "name": "Mount Washington",
         "lat": 44.2706,
         "lng": -71.3033,
-        "description": "Mount Washington stands among the White Mountains and is the tallest peak of the infamous Presidential Traverse section of the AT. While all the mountains of the traverse are dangerous due to the trail’s high exposure along the range, Mount Washington is so tall it has its own weather system. This section of the trail is widely considered the hardest part of the AT, and it must be completed at specific times to avoid potentially fatal bad weather. An observation tower stands at the top of Mount Washington for weather observation, where winds can get so strong the buildings on the peak must be chained down to avoid being blown away. Despite the danger, the mountain poses a unique hiking challenge that day hikers and backpackers alike continue to enjoy for its beautiful views and one-of-a-kind features.",
+        "description": "<strong>Mount Washington</strong> stands among the White Mountains and is the tallest peak of the infamous Presidential Traverse section of the AT. While all the mountains of the traverse are dangerous due to the trail’s high exposure along the range, Mount Washington is so tall it has its own weather system. This section of the trail is widely considered the hardest part of the AT, and it must be completed at specific times to avoid potentially fatal bad weather. An observation tower stands at the top of Mount Washington for weather observation, where winds can get so strong the buildings on the peak must be chained down to avoid being blown away. Despite the danger, the mountain poses a unique hiking challenge that day hikers and backpackers alike continue to enjoy for its beautiful views and one-of-a-kind features.",
         "image": "<img class='img' src='./images/mount-washington.webp'>"
     },
     {
         "state": "Maine",
         "name": "Mount Katahdin",
-        "lat": 34.7398,
-        "lng": -83.9369,
-        "description": "Mount Katahdin is the northern terminus of the AT, so it is either the beginning for south-bound hikers or the final summit for north-bounders. Most Thru Hikers travel north in order to tackle the harder hiking conditions of the northern trail at the end of their journey. North-bound hikers, or NOBOs, finish their trek by emerging from the trees to reach the barren, rocky summit of Katahdin, where a sign marks their achievement and a celebratory photo is tradition. For those finishing the trail, this mountain is an emotional point for many reasons, and the final hike is a beautiful way to end the journey.",
+        "lat": 45.9044,
+        "lng": -68.9216,
+        "description": "<strong>Mount Katahdin</strong> is the northern terminus of the AT, so it is either the beginning for south-bound hikers or the final summit for north-bounders. Most Thru Hikers travel north in order to tackle the harder hiking conditions of the northern trail at the end of their journey. North-bound hikers, or NOBOs, finish their trek by emerging from the trees to reach the barren, rocky summit of Katahdin, where a sign marks their achievement and a celebratory photo is tradition. For those finishing the trail, this mountain is an emotional point for many reasons, and the final hike is a beautiful way to end the journey.",
         "image": "<img class='img' src='./images/mount-katahdin.jpeg'>"
     }
 ]
